@@ -1,0 +1,170 @@
+body {
+    background-image: url("A2.jpg");
+    background-size: 1372px 695px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: orange;
+}
+
+li {
+    border-right: 1px solid white;
+}
+
+
+.tdesign{
+	margin-top: 40px;
+	margin-left: 80px;
+}
+.profile{
+	width:195px ;
+	height:180px ;
+	margin-top: 30px;
+}
+.design{
+	background-color: gray;
+	box-shadow: 10px 10px 5px black;
+	text-shadow: 2px 2px 5px blue;
+	color: white;
+	height: 20%;
+	width: 35%;
+	margin-left:200px;
+	margin-top: 50px;
+}
+.start{
+
+	margin: 5PX;
+}
+p {
+	color: white;
+	 font-family:georgia;
+}
+.upgrades{
+	
+	margin-top: 5%;
+	color: purple;
+	text-shadow: 2px 2px 2px white;
+	font-size: 30px
+	
+}
+.table{
+	height: 30%;
+	width: 30%;
+margin-left: 2%;
+margin-top: 0%;
+background-color: lightblue;
+	color: black;
+}
+
+u{
+	color:darkgreen;
+}
+
+
+.para p{
+	position: relative;
+	left: 80%
+	top:80%;
+}
+li {
+    border-right: 1px solid #bbb;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+li:last-child {
+    border-right: none;
+}
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.video{
+	color: white;
+	text-shadow: 2px 2px 5px black;
+	font-family: "georgia";
+	font-size: 150%;
+
+}
+iframe
+{
+	width: 450px;
+	height: 200px;
+	margin-left: 35%;
+	border: none;
+}
+h1{ color: white;
+	font-size: 50px;
+	text-align: center;  
+	margin-top: 75px;
+	text-shadow: 2px 2px 5px red;
+	font-family: "georgia"
+}
+
+form{
+	margin-top: 58px; font-family: "Times New Roman";
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+.para2{
+	background-color: gray;
+	box-shadow: 10px 10px 5px black;
+	text-shadow: 2px 2px 5px blue;
+	color: white;
+	height: 20%;
+	width: 35%;
+	font-size: 110%; margin: -186px 0px 0px 700px;
+}
+.social1{
+	margin-top: 14%;
+	margin-left: 70%;
+	height: 5%;
+	width: 5%;
+}
+.social2{
+	height: 10%;
+	width: 10%;
+}
+#social3{
+	height: 4%;
+	width: 4%;
+}
+.social4{
+	height: 8%;
+	width: 8%;
+	margin: 0px 0px -10px 0px;
+}
+p{
+	text-align: center;
+}
+.table{
+	margin: 0px 0px 0px 500px;
+	font-family: "georgia";
+}
+
+.lable{
+	color: black;
+}
+#id{
+	color: black;
+}
